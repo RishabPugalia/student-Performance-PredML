@@ -56,6 +56,4 @@ The app uses the students' attributes and exam grades to predict whether a stude
 
 The model is trained on the combined dataset and uses the input features to estimate the likelihood of each performance category.
 
-## Dataset source
 
-Cortez, Paulo. (2014). Student Performance. UCI Machine Learning Repository. https://doi.org/10.24432/C5TG7T.
